@@ -1,5 +1,3 @@
-Ini versi README yang lebih lengkap dengan fitur dalam dua bahasa. 🚀
-
 📂 Excel & CSV Merger – Merge Multiple Files into One!
 
 🇮🇩 Gabungkan Banyak File Excel/CSV dengan Mudah
@@ -12,20 +10,15 @@ Ini versi README yang lebih lengkap dengan fitur dalam dua bahasa. 🚀
 
 ✨ Fitur Utama | Key Features
 
-✅ Mudah digunakan – Antarmuka GUI sederhana & intuitif
-✅ Easy to use – Simple and intuitive GUI interface
+✅ Mudah digunakan – Antarmuka GUI sederhana & intuitif | Easy to use – Simple and intuitive GUI interface
 
-✅ Mendukung banyak format – Bisa gabung file .xlsx & .csv
-✅ Supports multiple formats – Merge .xlsx & .csv files
+✅ Mendukung banyak format – Bisa gabung file .xlsx & .csv | Supports multiple formats – Merge .xlsx & .csv files
 
-✅ Tidak perlu coding – Klik dan jalankan
-✅ No coding required – Just click and run
+✅ Tidak perlu coding – Klik dan jalankan | No coding required – Just click and run
 
-✅ Menggunakan Pandas – Performa tinggi untuk mengolah data besar
-✅ Powered by Pandas – High-performance data processing
+✅ Menggunakan Pandas – Performa tinggi untuk mengolah data besar | Powered by Pandas – High-performance data processing
 
-✅ Hasil dalam format CSV – Siap untuk analisis & visualisasi
-✅ Output in CSV format – Ready for analysis & visualization
+✅ Hasil dalam format CSV – Siap untuk analisis & visualisasi | Output in CSV format – Ready for analysis & visualization
 
 📸 Screenshot
 
